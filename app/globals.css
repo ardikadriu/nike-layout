@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@500;600;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: radial-gradient(
+    176.81% 129.58% at 50% 119.06%,
+    #585858 0%,
+    #000 69.45%
+  );
+}
